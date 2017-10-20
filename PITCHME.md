@@ -5,6 +5,9 @@
 
 # Class Outline
 
+---
+
+![Scope](img/HSE-17-2.jpeg)
 
 ---
 
