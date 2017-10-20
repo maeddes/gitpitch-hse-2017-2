@@ -7,7 +7,7 @@
 
 ---
 
-![Scope](img/HSE-17-2.jpeg)
+![Scope](img/HSE-17-2.jpg)
 
 ---
 
