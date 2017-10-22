@@ -11,6 +11,10 @@
 
 ---
 
+![Spring Cloud](https://spring.io/img/homepage/diagram-distributed-systems.svg)
+
+---
+
 ## Session 1
 
 # Cloud Introduction
