@@ -47,6 +47,25 @@ https://blog.novatec-gmbh.de/howto-get-started-pivotal-cloudfoundry-local-public
 
 # Development & Spring Boot Intro
 
++++
+
+# Content
+
+* IDEs
+* REST (Clients)
+* Maven & Gradle
+* Git
+* What is Spring Boot
+* Spring Initializr
+* REST Interface
+* Actuator
+
++++
+
+# Exercises
+
+//TODO
+
 ---
 
 ## Session 3
@@ -88,5 +107,17 @@ http://training.play-with-docker.com/alpine/
 ## Session 4
 
 # Spring Data
+
++++
+
+Exercises:
+
+https://gitpitch.com/maeddes/gitpitch-spring-data#/
+
+---
+
+## Session 5
+
+# Communication in Spring
 
 ---
