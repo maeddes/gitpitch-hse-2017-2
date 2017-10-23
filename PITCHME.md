@@ -41,8 +41,6 @@ in moodle
 
 # Exercises
 
-+++
-
 https://blog.novatec-gmbh.de/howto-get-started-pivotal-cloudfoundry-local-public/
 
 ---
@@ -66,15 +64,29 @@ https://blog.novatec-gmbh.de/howto-get-started-pivotal-cloudfoundry-local-public
 
 +++
 
+# Slides
+
+in moodle
+
++++
+
 # Exercises
 
-//TODO
+* Build a Hello, World Spring Boot app
+* Try to use the counter example
+* Implement REST methods to increase, reset and set the counter
 
 ---
 
 ## Session 3
 
 # Docker Intro
+
++++
+
+# Slides
+
+in moodle //TODO
 
 +++
 
@@ -114,6 +126,21 @@ http://training.play-with-docker.com/alpine/
 
 +++
 
+# Slides
+
+in moodle //TODO remove Thymelead and other stuff 
+
++++
+
+# Content
+
+- Persistence mechanisms in Spring (Boot)
+- SQL, Hibernate, JPA
+- Entity and Repository objects
+- In-memory, document-based and classic/relational DBs
+
++++
+
 Exercises:
 
 https://gitpitch.com/maeddes/gitpitch-spring-data#/
@@ -125,3 +152,5 @@ https://gitpitch.com/maeddes/gitpitch-spring-data#/
 # Communication in Spring
 
 ---
+
+
