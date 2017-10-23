@@ -72,9 +72,19 @@ in moodle
 
 # Exercises
 
-* Build a Hello, World Spring Boot app
-* Try to use the counter example
-* Implement REST methods to increase, reset and set the counter
+Basic:
+- Set up IDE for Spring Boot Development (Spring Tool Suite, IntelliJ idea recommended)
+- Build a new Spring Boot application using start.spring.io using "Web" dependency
+- Extend the application to retrieve dynamic data from a property
+- Extend the application to modify data of a property using HTTP POST
+
++++
+
+Advanced:
+- Add the actuator dependency to the application
+- Change the security settings in the application properties
+- Run a second instance of the application on another port
+- Try to implement the REST Calls using GET, PUT, POST and DELETE
 
 ---
 
